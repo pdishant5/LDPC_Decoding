@@ -12,14 +12,14 @@ We have implemented the decoding algorithm in MATLAB using hash tables and maps.
 To get the accurate result, we have performed Monte Carlo simulations over the experiment and final expected probability has been calculated.
 
 # Contents:
-Hard Decision Decoding MATLAB code
-Soft Decision Decoding MATLAB code
-Hard Decision Decoding Results
-Soft Decision Decoding Results
-Two large matrices to check the working of the code (NR_1_5_352 and NR_2_6_52)
-One dummy 9 x 12 H-matrix
-Bit error probability simulations for both hard and soft decision decoding
+Hard Decision Decoding MATLAB code.
+Soft Decision Decoding MATLAB code.
+Hard Decision Decoding Results.
+Soft Decision Decoding Results.
+Two large matrices to check the working of the code (NR_1_5_352 and NR_2_6_52).
+One dummy 9 x 12 H-matrix.
+Bit error probability simulations for both hard and soft decision decoding.
 
 # DSA- concepts used
-Graph Traversal
-Hash/Unordered map
+Graph Traversal.
+Hash/Unordered map.
